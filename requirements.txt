@@ -1,0 +1,14 @@
+numpy
+matplotlib
+spyder
+imageio-ffmpeg
+imageio
+scikit-image
+ffmpeg-python
+pandas
+openpyxl
+bayesian-optimization
+--extra-index-url https://download.pytorch.org/whl/cu113
+torch==1.12.1+cu113
+torchvision 
+torchaudio 
