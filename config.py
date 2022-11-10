@@ -20,7 +20,7 @@ class Config:
     gamma = 0.1
     
     # num_batches = 1
-    num_batches = 10
+    num_batches = 5
     
     interp_mode = 'bilinear'
     # interp_mode = 'bicubic'
